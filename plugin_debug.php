@@ -3,7 +3,7 @@
 Plugin Name: Plugin Debugging Tool
 Description: Attempt to automatically de-activate plugins that are causing errors. This must be installed in the mu-plugins directory.
 Author: Chase C. Miller
-Version: 1.0
+Version: 1.1a
 Author URI: http://crumbls.com
 */
 
