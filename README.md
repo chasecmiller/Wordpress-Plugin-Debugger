@@ -9,4 +9,4 @@ In your plugins screen, you will see plugins that are actively disabled with a r
 
 Looking for input.  I'd love to build it out more if there is any need for it.
 
-# Want to see this developed?  Give it a star or shoot me a message.  If there is traction, I'll build it out more.
+# This is no longer maintained as WordPress has implemented this into core functionality.
